@@ -11,6 +11,7 @@ beancount = "^2.3.4"
 beautifulsoup4 = "^4.9.3"
 
 [tool.poetry.dev-dependencies]
+pytest = "^6.2.3"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
